@@ -1,0 +1,5 @@
+# NIST Compliance Configuration\n\nkey1: value1\nkey2: value2\n...
+logging_level: "info"
+max_login_attempts: 5
+audit_log_retention_days: 90
+backup_frequency: "daily"

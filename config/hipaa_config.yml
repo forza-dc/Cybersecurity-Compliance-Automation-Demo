@@ -1,0 +1,5 @@
+# HIPAA Compliance Configuration\n\nkey1: value1\nkey2: value2\n...
+database_host: "hipaa-db-host"
+database_port: 5432
+api_key: "hipaa-api-key"
+encryption_key: "hipaa-encryption-key"
