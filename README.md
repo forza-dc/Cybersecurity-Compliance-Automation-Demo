@@ -17,4 +17,4 @@ This project serves as a demonstration of implementing security controls and com
 ## Usage
 
 1. Clone the repository: `git clone https://github.com/forza-dc/ComplianceDemo.git`
-2. Follow the instructions in the README to set up and run the compliance demonstrations.
+2. Follow the instructions in each individual README files found in the 'docs' folder to set up and run the compliance demonstrations.
