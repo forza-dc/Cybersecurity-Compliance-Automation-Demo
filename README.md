@@ -1,4 +1,4 @@
-# ComplianceDemo
+# Cybersecurity Compliance Automation Project
 
 This project serves as a demonstration of implementing security controls and compliance measures based on NIST, ISO 27001, PCI DSS, and HIPAA standards.
 

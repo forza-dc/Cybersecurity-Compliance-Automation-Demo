@@ -1,4 +1,5 @@
-// ISO 27001 Compliance Configuration\n\n{\n  "key1": "value1",\n  "key2": "value2"\n}
+// ISO 27001 Compliance Configuration
+
 {
     "network_security_group": "iso27001-nsg",
     "virtual_network": "iso27001-vnet",
